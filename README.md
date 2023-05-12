@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+Soy un futuro Full Stack developer
 <!--
 **JoseLuisMJ/JoseLuisMJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
