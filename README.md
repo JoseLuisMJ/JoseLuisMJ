@@ -1,7 +1,7 @@
 ### Hi there 👋
 Actualmente soy miembro del bootcamp de factoría F5
 
-Soy un futuro  desarrollador Full Stack developer
+Soy un futuro  Desarrollador Full Stack
 <!--
 **JoseLuisMJ/JoseLuisMJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
